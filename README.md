@@ -110,7 +110,7 @@ Transaction: https://mumbai.polygonscan.com/tx/0xbef56c3a46250862b15032e7ddb159a
 CID pushed to chain
 File Deployed, visit following url to view content!
 Visit: https://gateway.lighthouse.storage/ipfs/Qmaxc7iEKNGCFaPwCA8noaC67TxtFfj3waTBU8Wpdhvf5p
-       https://ipfs.io/ipfs/Qmaxc7iEKNGCFaPwCA8noaC67TxtFfj3waTBU8Wpdhvf5p
+https://ipfs.io/ipfs/Qmaxc7iEKNGCFaPwCA8noaC67TxtFfj3waTBU8Wpdhvf5p
 CID: Qmaxc7iEKNGCFaPwCA8noaC67TxtFfj3waTBU8Wpdhvf5p
 augustine@augustine-HP-ENVY:~$ 
 
