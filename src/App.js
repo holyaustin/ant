@@ -9,7 +9,7 @@ import SelectCharacter from './Components/SelectCharacter';
 import myEpicGame from './utils/MyEpicGame.json';
 import Arena from './Components/Arena';
 import LoadingIndicator from './Components/LoadingIndicator';
-import landingimage from './assets/bg.gif'; // relative path to image 
+import landingimage from './assets/bg1.gif'; // relative path to image 
 /*
 * Just add transformCharacterData!
 */
